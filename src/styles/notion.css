@@ -2,7 +2,7 @@
 
 .notion {
   font-family: Replica, sans-serif;
-  @apply text-gray-600 dark:text-gray-300;
+  @apply text-gray-400 dark:text-gray-400;
   overflow-wrap: break-word;
 }
 .notion,
