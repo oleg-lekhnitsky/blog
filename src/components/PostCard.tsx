@@ -31,7 +31,7 @@ const PostCard: React.FC<Props> = ({ post }) => {
           )}
           <div className="p-4">
             <header className="flex flex-col justify-between md:flex-row md:items-baseline">
-              <h2 className="text-lg md:text-xl font-medium mb-2 cursor-pointer text-black dark:text-gray-100">
+              <h2 className="text-lg md:text-xl font-normal mb-2 cursor-pointer text-black dark:text-gray-100">
                 {post.title}
               </h2>
             </header>
