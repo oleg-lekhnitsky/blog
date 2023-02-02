@@ -10,7 +10,7 @@ class MyDocument extends Document {
           <link
             rel="preload"
             as="font"
-            href="https://github.com/oleg-lekhnitsky/test/blob/master/replica"
+            href="https://github.com/oleg-lekhnitsky/pra.agency/blob/master/site/fonts/Replica%20Regular.woff2"
           />
           <link rel="icon" href="/favicon.ico" />
           <link
