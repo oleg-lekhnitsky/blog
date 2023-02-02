@@ -10,7 +10,7 @@ class MyDocument extends Document {
           <link
             rel="preload"
             as="font"
-            href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
+            href="https://github.com/oleg-lekhnitsky/test/blob/master/replica"
           />
           <link rel="icon" href="/favicon.ico" />
           <link
