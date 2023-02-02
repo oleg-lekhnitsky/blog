@@ -1,8 +1,8 @@
 /* NOTION CSS OVERRIDE */
 
 .notion {
-  font-family: Replica, sans-serif;
-  @apply text-gray-400 dark:text-black-400;
+  font-family: Replica Regular, sans-serif;
+  @apply text-gray-400 dark:text-grey-900;
   overflow-wrap: break-word;
 }
 .notion,
