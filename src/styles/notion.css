@@ -41,11 +41,11 @@ svg + .notion-page-title-text {
 
 .notion-bookmark .notion-bookmark-title,
 .notion-bookmark .notion-bookmark-link div {
-  @apply text-gray-900 dark:text-gray-200;
+  @apply text-gray-900 dark:text-gray-900;
 }
 
 .notion-bookmark .notion-bookmark-description {
-  @apply text-gray-600 dark:text-gray-300;
+  @apply text-gray-600 dark:text-gray-900;
 }
 
 .notion-code > code {
@@ -57,14 +57,14 @@ pre[class*="language-"] {
 }
 
 .notion-bookmark:hover {
-  @apply border-blue-400;
+  @apply border-blue-200;
 }
 .notion-viewport {
   z-index: -10;
 }
 .notion-asset-caption {
   @apply text-center;
-  @apply text-gray-500 dark:text-gray-400;
+  @apply text-gray-500 dark:text-gray-900;
 }
 .notion-full-width {
   @apply px-0;
