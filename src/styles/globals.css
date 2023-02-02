@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 html {
-  font-family: Replica, sans-serif;
+  font-family: Replica Regular, sans-serif;
   --scrollbarBG: #ffffff00;
   --thumbBG: #b8b8b8;
 }
