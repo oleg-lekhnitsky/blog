@@ -20,6 +20,7 @@
 
 .notion-list li {
   @apply py-0;
+  @apply text-xl;
 }
 .notion-page-link {
   color: inherit;
